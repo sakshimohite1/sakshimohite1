@@ -1,16 +1,20 @@
-## Hi there 👋
+#  Hi there, I'm Sakshi Mohite
 
-<!--
-**sakshimohite1/sakshimohite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Frontend Developer | React.js Enthusiast  
+ Based in Mumbai | B.Sc. IT Graduate  
+Passionate about building clean, user-friendly interfaces  
+ Email me at: sakshimohite95900@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/sakshimohite1)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React.js, Bootstrap
+- MongoDB, Node.js (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+- GoBus – Bus Booking System (React + MongoDB)
+- Travel Memory Map – Map-based Travel Diary
+- Portfolio Website (Responsive design)
+
+## GitHub Stats
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshimohite1&show_icons=true&theme=default)
