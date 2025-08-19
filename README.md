@@ -9,7 +9,7 @@ Passionate about building clean, user-friendly interfaces
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript
 - React.js, Bootstrap
-- MongoDB, Node.js (learning)
+- MongoDB, Node.js
 
 ##  Projects
 - GoBus – Bus Booking System (React + MongoDB)
